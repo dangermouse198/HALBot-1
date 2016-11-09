@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HALBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HALBot_jar</output-path>
+    <root id="archive" name="HALBot.jar">
+      <element id="module-output" name="HALBot" />
+    </root>
+  </artifact>
+</component>
